@@ -1,7 +1,7 @@
 # Parkinson
 
-##Project Overview
-##Introduction
+  **Project Overview**
+**Introduction**
 
 Problem Statement: Parkinson’s disease is a progressive neurological disorder that affects movement. Early detection is crucial for better management of the disease.
 Example: "Predicting the likelihood of Parkinson's disease using clinical data."
